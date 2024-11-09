@@ -1,5 +1,9 @@
 # Google AI Screenshot Replicate
 
+## Demo
+
+[View the demo video](https://github.com/user-attachments/assets/251f3cd7-ada3-4a8d-9901-073fa2b4c298)
+
 A web application that replicates Google AI Studio's screenshot capture and analysis functionality using Claude 3 API. This project allows users to capture screenshots of browser tabs, windows, or the entire screen and analyze them using Claude AI.
 
 ## Features
@@ -132,12 +136,6 @@ uvicorn app:app --reload --host 0.0.0.0 --port 8000
 - Input validation
 - Error message sanitization
 
-## Browser Compatibility
-
-- Chrome 75+
-- Firefox 68+
-- Safari 13+
-- Edge 79+
 
 ## Known Limitations
 
@@ -176,11 +174,7 @@ For support, please open an issue in the GitHub repository or contact the mainta
 - [ ] Support for custom AI prompts
 - [ ] Batch processing capability
 
-## Demo
 
-<!-- https://github.com/yourusername/Google-Ai-Screenshot-replicate/blob/main/testingscreenshot.mov -->
-
-[View the demo video](testingscreenshot.mov)
 ```
 
 This README provides a comprehensive overview of the project, including:
