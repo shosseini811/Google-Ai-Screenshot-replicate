@@ -175,6 +175,12 @@ For support, please open an issue in the GitHub repository or contact the mainta
 - [ ] Add screenshot history
 - [ ] Support for custom AI prompts
 - [ ] Batch processing capability
+
+## Demo
+
+<!-- https://github.com/yourusername/Google-Ai-Screenshot-replicate/blob/main/testingscreenshot.mov -->
+
+[View the demo video](testingscreenshot.mov)
 ```
 
 This README provides a comprehensive overview of the project, including:
